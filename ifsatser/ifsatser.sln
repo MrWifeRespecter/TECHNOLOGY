@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ifsatser", "ifsatser\ifsatser.pyproj", "{DF109EAE-B919-40CF-A3C2-3FA9A9BE6376}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF109EAE-B919-40CF-A3C2-3FA9A9BE6376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF109EAE-B919-40CF-A3C2-3FA9A9BE6376}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFB4B5CE-E10D-4EAA-9CD5-AC1DD47DEBE7}
+	EndGlobalSection
+EndGlobal
