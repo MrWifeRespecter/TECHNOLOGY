@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\viggo\\source\\repos\\kys\\kys\\kys.csproj",
+      "projectUniqueName": "C:\\Users\\viggo\\source\\TECHNOLOGY\\kys\\kys\\kys.csproj",
       "projectName": "kys",
-      "projectPath": "C:\\Users\\viggo\\source\\repos\\kys\\kys\\kys.csproj",
+      "projectPath": "C:\\Users\\viggo\\source\\TECHNOLOGY\\kys\\kys\\kys.csproj",
       "packagesPath": "C:\\Users\\viggo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\viggo\\source\\repos\\kys\\kys\\obj\\",
+      "outputPath": "C:\\Users\\viggo\\source\\TECHNOLOGY\\kys\\kys\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\viggo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
