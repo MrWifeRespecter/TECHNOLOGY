@@ -9,3 +9,16 @@ C:\Users\viggo\source\repos\kys\kys\obj\Debug\netcoreapp3.1\kys.AssemblyInfoInpu
 C:\Users\viggo\source\repos\kys\kys\obj\Debug\netcoreapp3.1\kys.AssemblyInfo.cs
 C:\Users\viggo\source\repos\kys\kys\obj\Debug\netcoreapp3.1\kys.dll
 C:\Users\viggo\source\repos\kys\kys\obj\Debug\netcoreapp3.1\kys.pdb
+C:\Users\viggo\source\TECHNOLOGY\kys\kys\bin\Debug\netcoreapp3.1\kys.exe
+C:\Users\viggo\source\TECHNOLOGY\kys\kys\bin\Debug\netcoreapp3.1\kys.deps.json
+C:\Users\viggo\source\TECHNOLOGY\kys\kys\bin\Debug\netcoreapp3.1\kys.runtimeconfig.json
+C:\Users\viggo\source\TECHNOLOGY\kys\kys\bin\Debug\netcoreapp3.1\kys.runtimeconfig.dev.json
+C:\Users\viggo\source\TECHNOLOGY\kys\kys\bin\Debug\netcoreapp3.1\kys.dll
+C:\Users\viggo\source\TECHNOLOGY\kys\kys\bin\Debug\netcoreapp3.1\kys.pdb
+C:\Users\viggo\source\TECHNOLOGY\kys\kys\obj\Debug\netcoreapp3.1\kys.csprojAssemblyReference.cache
+C:\Users\viggo\source\TECHNOLOGY\kys\kys\obj\Debug\netcoreapp3.1\kys.AssemblyInfoInputs.cache
+C:\Users\viggo\source\TECHNOLOGY\kys\kys\obj\Debug\netcoreapp3.1\kys.AssemblyInfo.cs
+C:\Users\viggo\source\TECHNOLOGY\kys\kys\obj\Debug\netcoreapp3.1\kys.csproj.CoreCompileInputs.cache
+C:\Users\viggo\source\TECHNOLOGY\kys\kys\obj\Debug\netcoreapp3.1\kys.dll
+C:\Users\viggo\source\TECHNOLOGY\kys\kys\obj\Debug\netcoreapp3.1\kys.pdb
+C:\Users\viggo\source\TECHNOLOGY\kys\kys\obj\Debug\netcoreapp3.1\kys.genruntimeconfig.cache
