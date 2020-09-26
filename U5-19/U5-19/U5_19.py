@@ -26,5 +26,5 @@ for x in range(1,11):
             print(j, end=" ")
             temp=10-x
         print("\n")
-
+input()
     

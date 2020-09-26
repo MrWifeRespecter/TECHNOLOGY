@@ -3,3 +3,4 @@ for i in range(0,10):
         print(i, end=" ")
         if j == 10:
             print("\n")
+input()
