@@ -20,11 +20,11 @@
 temp=10
 blanksteg=" "
 for x in range(1,11):
-        print(blanksteg, end=" ")
+        print(blanksteg, end="")
         blanksteg+="  "
         for j in range(0,temp):
-            print(j, end=" ")
+            print(j, end=(" "))
             temp=10-x
-        print("\n")
+        print("")
 input()
     
